@@ -14,7 +14,7 @@ For this project, we have focused on creating the console, which, as you can see
 1. Clone this git repository
 
 ```bash
-git clone https://github.com/ValPumpkins/holbertonschool-AirBnB_clone.git
+git clone https://github.com/Nihylin/holbertonschool-AirBnB_clone.git
 cd holbertonschool-AirBnB_clone
 ```
 2. You can now use the command interpreter
