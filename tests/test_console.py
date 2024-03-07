@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Unittest for Amenity """
+""" Unittest for Console """
 
 import unittest
 from unittest.mock import patch
